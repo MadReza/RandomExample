@@ -13,4 +13,9 @@ public class Student {
     public int id;
     public String name;
     
+	
+	public void Jumps()
+	{
+		System.out.println(name + " is jumping);
+	}
 }
